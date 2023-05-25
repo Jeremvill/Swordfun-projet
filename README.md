@@ -1,2 +1,2 @@
-# Swordfun-projet
+# Swordfun-project
 Swordfun-project
